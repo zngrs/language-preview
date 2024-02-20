@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* Example styling for the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Example styling for the main content */
+main {
+    padding: 20px;
+}
+
+/* Example styling for the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
